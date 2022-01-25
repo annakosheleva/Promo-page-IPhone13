@@ -593,7 +593,8 @@ h1, h2, h3, p, ul {
     flex-grow: 1;
     border-style: solid;
     border-width: 1px;
-    border-color: transparent transparent #000 transparent ;
+    border-color: transparent transparent rgb(48, 47, 47) transparent;
+    outline: none;
 }
 
 .modal__submit {
